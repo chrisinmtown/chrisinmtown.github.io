@@ -3,6 +3,7 @@
 Hope you enjoy these posts about coding, cooking, construction, car repair and more:
 
 <!-- Always link to *.html file which Github generates from *.md file -->
+* [Refreshing the A/T Fluid in a 2009 Honda CR-V](20120723_crv_atf.html)
 * [Server and client certificates in Apache client](20120107_httpscerts.html)
 * [Validating files for the Unicode character set](20110718_unicode.html)
 * [Making fire-roasted salsa](20101007_salsa.html)
