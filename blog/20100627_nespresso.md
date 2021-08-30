@@ -1,5 +1,4 @@
-# Repairing a Jura Nespresso Machine<
-
+# Repairing a Jura Nespresso Machine
 ## Or: The Story of the Oval-Head Screw and Kindness of Strangers
 ### 27 June 2010, with many updates
 
