@@ -1,7 +1,7 @@
 # chrisinmtown.github.io
-Just another little personal website.
+Thanks for visiting my personal website. Here are links to some scribblings:
 
-Links to my ramblings:
+* [Blog posts](blog/)
+* [Yelp reviews](https://chrisinmtown.yelp.com)
 
-* <A HREF="https://chrisinmtown.medium.com">Blog posts</A>
-* <A HREF="https://chrisinmtown.yelp.com">Yelp reviews</A>
+Please leave comments at [the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
