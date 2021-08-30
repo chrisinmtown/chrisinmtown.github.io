@@ -1,9 +1,10 @@
 # ChrisInMtown's Blog
 
-Hope you enjoy these posts about coding, cooking, car repair and more:
+Hope you enjoy these posts about coding, cooking, construction, car repair and more:
 
 <!-- Always link to *.html file which Github generates from *.md file -->
-* [Validating files for Unicode/UTF-8 character set](20110718_unicode.html)
+* [Server and client certificates in Apache client](20120107_httpscerts.html)
+* [Validating files for the Unicode character set](20110718_unicode.html)
 * [Making fire-roasted salsa](20101007_salsa.html)
 * [Baking no-knead bread](20101003_bread.html)
 * [Keeping up with cedar siding maintenance](20100910_cedar.html)
