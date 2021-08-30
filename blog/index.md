@@ -1,9 +1,10 @@
 # ChrisInMtown's Blog
 
-Hope you enjoy these posts. Don't be put off by the old inital dates,
-I've updated most of these extensively over the years.
+Hope you enjoy these posts. Don't be put off by the old dates,
+I've added reader feedback to most posts over the years.
 
 <!-- Always link to *.html file which Github generates from *.md file -->
+* [Oct 2010: Baking no-knead bread](20101003_bread.html)
 * [Sep 2010: Keeping up with cedar siding maintenance](20100910_cedar.html)
 * [Jun 2010: Repairing a Jura Nespresso machine](20100627_nespresso.html)
 * [Jun 2010: Protecting uploaded files with PGP](20100607_pgp.html)
