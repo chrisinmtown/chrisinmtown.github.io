@@ -4,6 +4,7 @@ Hope you enjoy these posts. Don't be put off by the old dates,
 I've added reader feedback to most posts over the years.
 
 <!-- Always link to *.html file which Github generates from *.md file -->
+* [Oct 2010: Making fire-roasted salsa](20101007_salsa.html)
 * [Oct 2010: Baking no-knead bread](20101003_bread.html)
 * [Sep 2010: Keeping up with cedar siding maintenance](20100910_cedar.html)
 * [Jun 2010: Repairing a Jura Nespresso machine](20100627_nespresso.html)
@@ -11,5 +12,6 @@ I've added reader feedback to most posts over the years.
 * [Mar 2010: Replacing a VW New Beetle battery](20100327_vwbatt.html)
 * [Jan 2010: Space verus time in Java's ObjectOutputStream](20100110_spacetime.html)
 * [Jan 2009: Plans for a garden tool rack](20090101_toolrack.html)
+* [Jan 1992: Damn Good Salsa](19920102_salsa_eng.html) (auch [auf Deutsch](19920102_salsa_deu.html))
 
 Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
