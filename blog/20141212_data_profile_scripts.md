@@ -607,3 +607,5 @@ if __name__ == "__main__":
     # This tests constructor input validation
     # bogus = TableStat("hi")
 ```
+
+Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)

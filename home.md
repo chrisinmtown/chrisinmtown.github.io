@@ -1,4 +1,4 @@
-# CML's startup page
+# ChrisInMtown's bookmarks page
 
 ## News
 

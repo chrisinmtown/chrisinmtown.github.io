@@ -23,6 +23,8 @@
     * [2019](#stories-in-2019)
     * [2020](#stories-in-2020)
 
+Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
+
 ## Summary
 
 Machine problems?  tl;dr?  Here's the diagnosis quickstart, see

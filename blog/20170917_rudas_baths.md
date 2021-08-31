@@ -80,3 +80,5 @@ attempt at relaxation, but what can you do.) Yes it more than doubles
 the price, I thought the basic massage was great.
 
 ![price](pix/rudas_price_list.jpg)
+
+Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)

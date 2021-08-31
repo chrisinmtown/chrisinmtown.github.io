@@ -69,3 +69,5 @@ MCP-410-00006-0N     Screw bag (100 pcs) and label for 24x hot swap 2.5" HDD tra
 ```
 
 > Finally armed with part numbers a good number of sellers of those come up on Google.
+
+Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
