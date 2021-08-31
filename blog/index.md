@@ -3,6 +3,7 @@
 Hope you enjoy these posts about coding, cooking, car repair, construction and more:
 
 <!-- Always link to *.html file which Github generates from *.md file -->
+* [Making New Jersey Red Sauce](20160827_red_sauce.html)
 * [Batch OCR in Practice](20150805_ocr.html)
 * [Data Profiling in Python](20141212_data_profile_scripts.html)
 * [Finding 6-32 Screws for Server Disk Trays](20130131_disk_tray_screws.html)
