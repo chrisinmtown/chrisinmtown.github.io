@@ -3,7 +3,8 @@
 Hope you enjoy these posts about coding, cooking, car repair, construction and more:
 
 <!-- Always link to *.html file which Github generates from *.md file -->
-* [Visiting the Rudas Thermal Bath in Budapest](20170917_rudas_baths.html))
+* [Polishing a Modern Cast-Iron Pan](20171216_cast_iron.html)
+* [Visiting the Rudas Thermal Bath in Budapest](20170917_rudas_baths.html)
 * [Making New Jersey Red Sauce](20160827_red_sauce.html)
 * [Batch OCR in Practice](20150805_ocr.html)
 * [Data Profiling in Python](20141212_data_profile_scripts.html)
