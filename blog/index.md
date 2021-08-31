@@ -3,6 +3,7 @@
 Hope you enjoy these posts about coding, cooking, car repair, construction and more:
 
 <!-- Always link to *.html file which Github generates from *.md file -->
+* [Data Profiling in Python](20141212_data_profile_scripts.html)
 * [Finding 6-32 Screws for Server Disk Trays](20130131_disk_tray_screws.html)
 * [Refreshing the A/T Fluid in a 2009 Honda CR-V](20120723_crv_atf.html)
 * [Server and client certificates in Apache client](20120107_httpscerts.html)
