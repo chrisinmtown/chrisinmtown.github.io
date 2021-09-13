@@ -33,18 +33,18 @@ details far below.
 * What the !@#$%^ are these oval screws? 
     Somebody's attempt to ensure repair-shop business, you can buy or
     a build a socket to remove 'em.
-*  Push buttons don't work?  <BR/> Probably poor electric contact,
+* Push buttons don't work?  <BR/> Probably poor electric contact,
    clean the back of the push buttons and maybe re-apply graphite.
-*  Machine doesn't draw water?  <BR/> Probably a stuck check valve,
+* Machine doesn't draw water?  <BR/> Probably a stuck check valve,
   free it up with a long thin bamboo stick or by pushing/pulling air
   via a syringe.
-*  Water leaks out the bottom?  <BR/> Probably a cracked elbow joint
+* Water leaks out the bottom?  <BR/> Probably a cracked elbow joint
   in the high-pressure line from the pump, your only hope is an
   original part from Europe bcos epoxy will not hold pressure.
-*  Machine won't turn on?  <BR/> If it's not bad push buttons,
+* Machine won't turn on?  <BR/> If it's not bad push buttons,
   check if the in-line thermal fuses have opened; parts are cheap and
   are not on the circuit board, so the repair is not too diffcult.
-*  Rapidly blinking lights instead of coffee?  <BR/> Probably a
+* Rapidly blinking lights instead of coffee?  <BR/> Probably a
   failed electronic part, here are the usual suspects:
    * Large rectangular capacitors on the little circuit board have
      failed for many, replacements are cheap but you have to be handy
@@ -3919,6 +3919,11 @@ Andrew v.d.M. of Cape Town, South Africa wrote me about those diabolical oval-he
 
 ![andrew](pix/nesp-andrew-2020.jpg)
 
-### Where in the world are the sockets?
+#### 23 Sep 2021
 
-A steel socket is with Mary S. in Clive, Iowa.
+My Nespresso story has reached an end.  The search engine results no longer include this
+blog if you search for machine repair help, plus the old machines with the oval-head
+screws are 10+ years old so most people will not attempt a repair. And just yesterday
+my original machine stopped working. It's over 14 years old and now has the same symptom
+that Demetrios B. from Cleveland, Ohio reported in 2014: the warm-up light blinks forever,
+and with that light blinking instead of staying lit, I cannot start the machine pump.
