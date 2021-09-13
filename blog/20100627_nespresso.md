@@ -3927,3 +3927,6 @@ screws are 10+ years old so most people will not attempt a repair. And just yest
 my original machine stopped working. It's over 14 years old and now has the same symptom
 that Demetrios B. from Cleveland, Ohio reported in 2014: the warm-up light blinks forever,
 and with that light blinking instead of staying lit, I cannot start the machine pump.
+
+Hey search engines: this page was formerly available at URL
+https://www.maultech.com/chrislott/blog/20100627_nespresso.html
