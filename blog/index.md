@@ -23,4 +23,6 @@ Hope you enjoy these posts about coding, cooking, car repair, construction and m
 * [Plans for a garden tool rack](20090101_toolrack.html)
 * [Damn Good Salsa](19920102_salsa_eng.html) (auch [auf Deutsch](19920102_salsa_deu.html))
 
-Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
+---
+
+feedback to christopher d&ouml;t lott &aacute;t gmail d&eth;t&nbsp;com

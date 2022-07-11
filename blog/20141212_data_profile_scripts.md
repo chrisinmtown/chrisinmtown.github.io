@@ -608,4 +608,6 @@ if __name__ == "__main__":
     # bogus = TableStat("hi")
 ```
 
-Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
+---
+
+[Blog index](../index.html) / feedback to christopher d&ouml;t lott &aacute;t gmail d&eth;t&nbsp;com

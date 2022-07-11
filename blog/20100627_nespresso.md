@@ -23,7 +23,7 @@
     * [2019](#stories-in-2019)
     * [2020](#stories-in-2020)
 
-Please leave comments [at the github repo](https://github.com/chrisinmtown/chrisinmtown.github.io)
+> feedback to christopher d&ouml;t lott &aacute;t gmail d&eth;t&nbsp;com
 
 ## Summary
 
@@ -3930,3 +3930,7 @@ and with that light blinking instead of staying lit, I cannot start the machine 
 
 Hey search engines: this page was formerly available at URL
 https://www.maultech.com/chrislott/blog/20100627_nespresso.html
+
+---
+
+[Blog index](../index.html) / feedback to christopher d&ouml;t lott &aacute;t gmail d&eth;t&nbsp;com

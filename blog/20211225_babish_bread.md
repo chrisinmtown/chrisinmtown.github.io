@@ -7,20 +7,25 @@ Adapted and adjusted the
 from the
 [YouTube instructions](https://www.youtube.com/watch?v=bSYdABrPrtM).
 
+__Supplies__
+
+* Cast-iron dutch oven, basically a pot and a frying pan combo that
+  mate together. Alternately a ceramic or steel pot works fine, just
+  ensure it has no plastic handles or knobs.
 
 __Ingredients__
 
 For the levain:
 
-* 35 g bread (or all purpose) flour
-* 35 g rye (or whole wheat) flour
+* 35 g bread flour
+* 35 g whole wheat (or rye) flour
 * 35 g mature sourdough starter
 * 70 g filtered water
 
 For the dough:
 
 * 810 g bread flour
-* 90 g rye (or whole wheat) flour
+* 90 g whole wheat (or rye) flour
 * 680 g filtered water at 90 deg F
 * 18 g fine sea salt
 
@@ -67,8 +72,10 @@ __Directions__
 11. Cold proof the dough by resting in refrigerator overnight.
 12. Preheat a ceramic, cast iron or steel baking pot from cold to 500
    deg F for 1 hour.
-13. Place each batard into a hot pot, score the top if you can, place
-   the lid on the pot then bake for 20 minutes.
+13. Remove pot from oven, place each batard into the hot pot*, score
+    the top a quarter to half inch, place the lid on the pot then bake
+    for 20 minutes. *If using the preferred cast iron combo cooker,
+    put the dough into the lid and add the base as the cover.
 14. Remove the top from the pot, lower the oven temperature to 450 deg
    F and bake for 20-30 minutes more, until the loaf is deep brown.
 15. Remove pot, dump out loaf and cool on a wire rack until room
@@ -79,12 +86,16 @@ __Sample Schedule__
 * 9am: mix levain
 * 1pm: autolyse dough
 * 2pm: combine levain and dough
-* 2:15: mix in salt and water
-* 2:30: Fold #1
-* 2:45: Fold #2
-* 3:00: Fold #3
-* 3:30: Fold #4
-* 4:00: Fold #5
-* 4:30: Fold #6
+* 2:20: mix in salt and water
+* 2:35: Fold #1
+* 2:50: Fold #2
+* 3:05: Fold #3
+* 3:35: Fold #4
+* 4:05: Fold #5
+* 4:35: Fold #6
 * 8:30: Shape and place in fridge
 * Next morning: preheat and bake
+
+---
+
+[Blog index](../index.html) / feedback to christopher d&ouml;t lott &aacute;t gmail d&eth;t&nbsp;com
